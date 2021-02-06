@@ -1,3 +1,3 @@
 import './styles.css';
-import './js/test-1';
-import './js/test-2';
+import './js/paginator';
+import './js/posts';

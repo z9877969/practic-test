@@ -18,3 +18,8 @@ body {
    */
   background-image: url('./images/bg-pattern.png');
 }
+
+ul {
+  display: flex;
+  list-style: none;
+}
